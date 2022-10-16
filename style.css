@@ -1,0 +1,244 @@
+
+#collapsibleNavbar{
+    margin-left: 45%;
+}
+
+
+
+
+@media screen and (max-width: 667px) {
+    
+    #collapsibleNavbar{
+        margin-left: 0%;
+    }
+    #galleryimg{
+        margin-left: 0%;
+    }
+   
+
+      
+}
+
+@media screen and (min-width: 667px){
+    .img-thumbnail{
+        width: 25%;
+        margin-left: 0%;
+    }
+    #galleryimg{
+        margin-left: 0%;
+    }
+    
+
+}
+
+
+#navbrand{
+    color: #F36E23 !important;
+    font-weight: bolder;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    margin-left: 10px;
+}
+
+#collapsibleNavbar , h1{
+    font-weight: bold;
+  
+}
+
+#bannerdiv{
+background-image:url(banner.png);
+width: 100%;
+height: 500px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+overflow: hidden;
+color: #FFFFFF;
+}
+
+#bannertext{
+    padding-top: 15%;
+    color: white;
+    background: rgba(0, 0, 0, 0.61);
+    /* background: rgba(12, 12, 12, 0.7); */
+    overflow: hidden;
+    height: 100%;
+}
+
+.col-sm-2{
+    text-align: center;
+
+}
+
+
+.nav-link{
+    color: black !important;
+}
+
+.col-md{
+    background-color: #E8892D;   
+    margin-right: 20px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-top: 5%;
+}
+
+.btn{
+    border:2px solid black;
+    border-radius: 0% !important;
+    margin-bottom: 15%;
+    /* background-color: #EDA711 !important; */
+}
+
+.btn4{
+    border: 1px solid white;
+    color: white;
+    border-radius: 0% !important;
+    margin-bottom: 15%;
+}
+
+.img-thumbnail{
+    /* width: 25%; */
+    margin: 10px;
+    box-shadow: 0;
+    padding: 0%;    
+}
+#galleryimg{
+    margin-left: 17%
+   
+}
+
+#gallerytxt{
+    color: black;
+    margin-left: 35%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+#btn2{
+    color: white;
+    background-color: black;
+   margin-bottom: 10%;
+   margin-top: 2%;
+}
+
+
+#btn3{
+    background-color: black !important;
+    /* border-color: white; */
+    cursor: none;
+    color: white;
+}
+
+
+
+
+
+.gallery{
+width: 86%;
+margin-left: 5%;
+margin-right: 10%;
+margin-inline: 12%;
+  
+} 
+
+.img-thumbnail{
+    padding: 0%;
+    margin: 10px;
+    border: #000 solid 1px;
+    
+
+
+
+h4 {
+  margin-right: 39%;
+   
+}
+
+.swat_teamImg{
+    border-radius: 100%;
+    border: 4px solid white;
+    width: 150px;
+
+}
+
+
+.bannertxt{
+    text-align: center;
+    font-weight:bold;
+    font-size:20PX;
+}
+
+.swat-txt{
+    color: white;
+}
+
+.bg-color{
+    background-color:#EDA711;
+}
+
+.sponsorlogo{
+    height: 30px;
+}
+
+
+.footer{
+  
+    color: white;
+}
+
+.footerlist{
+    margin-right: 10px;
+    text-decoration: none;
+    
+}
+
+.socialicons{
+    background-color: #EDA711 !important;
+    color: white;
+    /* padding: 10px,10px,10px,10px; */
+    font-size: 30px;
+   
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+
+}
+
+
+
+.covid-need{
+
+    width: 100%;
+
+    background-color: white;
+
+}
+
+.team-img{
+
+    border:solid white 5px;
+
+    border-radius: 50%;
+
+    height: 200px;
+
+    width: 100%;
+
+}
+
+.card-bg-color{
+    background-color: #E8892D;
+}
+
+
+
+
+
+
+
+
+
+
